@@ -19,6 +19,5 @@
         <attr name="reach_color" format="color" />
         <attr name="unreach_color" format="color" />
         <attr name="progressbar_height" format="dimension" />
-        <attr name="radius" format="dimension" />
     </declare-styleable>
 </resources>
