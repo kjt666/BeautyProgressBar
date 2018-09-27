@@ -5,6 +5,7 @@
 -----
 演示
 -----
+![](https://github.com/kjt666/ImageCache/blob/master/BeautyProgressBar.gif)<br>
 属性说明
 -----
 
