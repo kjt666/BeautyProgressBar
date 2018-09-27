@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NumberProgressBar">
+        <attr name="progressbar_reach_color" format="color" />
+        <attr name="progressbar_unreach_color" format="color" />
+        <attr name="progressbar_reach_height" format="dimension" />
+        <attr name="progressbar_unreach_height" format="dimension" />
+        <attr name="progressbar_text_color" format="color" />
+        <attr name="progressbar_text_size" format="dimension" />
+        <attr name="progressbar_text_offset" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundNumberProgressBar">
+        <attr name="progressbar_radius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="BeautyProgressBar">
+        <attr name="reach_color" format="color" />
+        <attr name="unreach_color" format="color" />
+        <attr name="progressbar_height" format="dimension" />
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+</resources>
