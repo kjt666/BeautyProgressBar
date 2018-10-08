@@ -1,8 +1,31 @@
 # BeautyProgressBar
 强大漂亮的条形带数字、圆形带数字、仿IOS圆形进度条、两端圆滑的条形progressBar
 
+[![](https://jitpack.io/v/kjt666/BeautyProgressBar.svg)](https://jitpack.io/#kjt666/BeautyProgressBar)
+
 使用
 -----
+要在您的构建中获得Git项目：<br>
+
+步骤1.将JitPack存储库添加到构建文件中<br>
+
+将其添加到存储库末尾的根build.gradle中：<br>
+
+```Java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+步骤2.添加依赖项<br>
+
+```Java
+dependencies {
+	        implementation 'com.github.kjt666:BeautyProgressBar:v1.0'
+	}
+```
 演示
 -----
 ![](https://github.com/kjt666/ImageCache/blob/master/BeautyProgressBar.gif)<br>
